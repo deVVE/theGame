@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">theGame</string>
+    <string name="title_news">Wiadomości</string>
+    <string name="title_matches">Mecze</string>
+    <string name="title_standings">Tabele</string>
+    <string name="title_lineups">Składy</string>
 </resources>
